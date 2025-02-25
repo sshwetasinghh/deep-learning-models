@@ -1,2 +1,6 @@
 # deep-learning-models
-Collection of Deep Learning Models built using TensorFlow and PyTorch. Includes Image Digit Classification and Pima Diabetes Prediction.
+This repository contains a collection of Deep Learning models implemented using TensorFlow/Keras and PyTorch. It includes the following projects:
+
+Image Digit Classification: Classifies handwritten digits using a Convolutional Neural Network (CNN).
+Pima Diabetes Classification: Predicts diabetes risk using medical diagnostic data.
+
